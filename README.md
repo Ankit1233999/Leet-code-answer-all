@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,4 +61,16 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
