@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
