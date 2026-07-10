@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
+| [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0225-implement-stack-using-queues) |
+| [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
+| [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
