@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0234-palindrome-linked-list) |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
@@ -146,4 +150,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
