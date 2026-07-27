@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
