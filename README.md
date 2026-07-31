@@ -122,6 +122,7 @@
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
