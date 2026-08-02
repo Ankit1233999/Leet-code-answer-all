@@ -23,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
@@ -113,6 +114,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
