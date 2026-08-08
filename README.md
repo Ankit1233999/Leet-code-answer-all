@@ -24,6 +24,7 @@
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 ## Two Pointers
@@ -66,6 +67,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -83,6 +85,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -143,12 +146,14 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 ## Combinatorics
 |  |
