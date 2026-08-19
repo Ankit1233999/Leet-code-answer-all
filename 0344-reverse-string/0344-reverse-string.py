@@ -1,16 +1,14 @@
 class Solution(object):
     def reverseString(self, s):
-       
+        left, right = 0, len(s) - 1
 
-        def solve(left, right):
 
-            if left >= right:
-                return
-
+        while left < right:
             s[left], s[right] = s[right], s[left]
 
-            solve(left + 1, right - 1)
-            
 
-        solve(0, len(s)-1)
+            left += 1
+            right -= 1
+       
+
         
