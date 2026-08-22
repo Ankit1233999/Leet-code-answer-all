@@ -31,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0061-rotate-list) |
@@ -123,6 +124,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
@@ -184,6 +186,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
