@@ -131,6 +131,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
