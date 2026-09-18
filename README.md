@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
@@ -143,6 +144,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
@@ -181,6 +183,7 @@
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 ## Combinatorics
 |  |
@@ -190,6 +193,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
@@ -232,4 +236,16 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
