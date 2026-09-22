@@ -29,6 +29,7 @@
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
@@ -43,6 +44,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
@@ -203,6 +205,7 @@
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0409-longest-palindrome) |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
