@@ -67,6 +67,7 @@
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
