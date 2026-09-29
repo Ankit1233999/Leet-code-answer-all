@@ -158,6 +158,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
@@ -211,6 +212,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
@@ -228,6 +230,7 @@
 | [0147-insertion-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
