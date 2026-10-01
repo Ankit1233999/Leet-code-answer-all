@@ -161,6 +161,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
+| [0414-third-maximum-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
@@ -231,6 +232,7 @@
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
