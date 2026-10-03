@@ -49,6 +49,7 @@
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -73,6 +74,7 @@
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
