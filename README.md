@@ -103,6 +103,7 @@
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -128,6 +130,7 @@
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0063-unique-paths-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
