@@ -50,6 +50,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -77,6 +78,7 @@
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
@@ -215,6 +217,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
 | ------- |
