@@ -67,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
