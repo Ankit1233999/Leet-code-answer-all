@@ -284,6 +284,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
 ## Trie
