@@ -193,6 +193,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
@@ -220,6 +221,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -266,6 +268,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
