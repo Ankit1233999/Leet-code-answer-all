@@ -28,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0096-unique-binary-search-trees) |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 ## Breadth-First Search
