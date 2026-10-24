@@ -36,6 +36,7 @@
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
+| [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
+| [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
 ## Design
 |  |
 | ------- |
