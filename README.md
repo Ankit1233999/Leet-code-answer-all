@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0062-unique-paths) |
