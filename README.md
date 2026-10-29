@@ -49,6 +49,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0160-intersection-of-two-linked-lists) |
@@ -80,6 +81,7 @@
 | [0020-valid-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0344-reverse-string) |
