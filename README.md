@@ -39,6 +39,7 @@
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
