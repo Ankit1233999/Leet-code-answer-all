@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 ## Breadth-First Search
@@ -190,6 +191,7 @@
 | [0063-unique-paths-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -313,6 +315,7 @@
 | [0022-generate-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0113-path-sum-ii) |
