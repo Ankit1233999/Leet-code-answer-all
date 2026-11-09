@@ -106,6 +106,7 @@
 | [0155-min-stack](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
@@ -207,6 +208,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
@@ -296,6 +298,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 ## Randomized
 |  |
