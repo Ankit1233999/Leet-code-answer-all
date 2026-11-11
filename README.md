@@ -188,6 +188,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
@@ -228,6 +229,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -237,6 +239,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0095-unique-binary-search-trees-ii) |
