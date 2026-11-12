@@ -217,6 +217,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
