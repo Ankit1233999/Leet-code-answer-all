@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0086-partition-list) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0061-rotate-list) |
