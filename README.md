@@ -222,6 +222,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3364-minimum-positive-sum-subarray) |
 ## Randomized
 |  |
 | ------- |
