@@ -103,6 +103,7 @@
 | [0696-count-binary-substrings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
 ## Design
 |  |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
