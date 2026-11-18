@@ -105,6 +105,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Design
 |  |
 | ------- |
