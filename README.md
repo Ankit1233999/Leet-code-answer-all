@@ -108,6 +108,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0547-number-of-provinces) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
@@ -296,6 +300,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
