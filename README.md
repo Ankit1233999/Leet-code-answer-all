@@ -41,6 +41,7 @@
 | [0231-power-of-two](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0231-power-of-two) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -118,6 +119,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0384-shuffle-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0860-lemonade-change) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3364-minimum-positive-sum-subarray) |
@@ -397,4 +401,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0229-majority-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
