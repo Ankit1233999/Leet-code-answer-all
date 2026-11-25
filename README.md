@@ -219,6 +219,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0219-contains-duplicate-ii) |
@@ -267,6 +268,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3152-special-array-ii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3152-special-array-ii) |
 ## Dynamic Programming
