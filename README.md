@@ -44,6 +44,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -353,6 +354,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ankit1233999/Leet-code-answer-all/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
